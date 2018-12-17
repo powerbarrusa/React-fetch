@@ -21,7 +21,7 @@
 * [HTTP Calls](https://learn-2.galvanize.com/cohorts/757/blocks/6/content_files/apis/fetch-data.md)
 * [React Docs](https://reactjs.org/docs/react-component.html)
 * [Promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-* [Catch](https://github.com/gSchool/describe-arrays-linked-lists/blob/master/drills/version-1/rubric.md)
+* [Catch](https://danlevy.net/are-promises-broken/#3-handle-errors-where-it-makes-sense)
 * [Posting Data](https://learn-2.galvanize.com/cohorts/757/blocks/6/content_files/apis/post-data.md)
 
 ## Tech used
