@@ -1,5 +1,9 @@
+body {
+  background-image: url('/DeathStar.jpg');
+}
 .App {
   text-align: center;
+  color: white;
 }
 
 .App-logo {
