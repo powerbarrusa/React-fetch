@@ -12,8 +12,8 @@ class App extends Component {
     //what we are returning in the render function
     return (
       <div className="App">
-      <h1>I find your lack of fetch disturbing..</h1>
-      <Loader type="Grid" color="red" height={80} width={80} />
+        <h1>I find your lack of fetch disturbing..</h1>
+        <Loader type="Grid" color="red" height={80} width={80} />
       </div>
     );
   }
