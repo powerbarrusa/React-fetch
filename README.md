@@ -12,6 +12,7 @@
 * Write a `fetch` request to recieve data from an API
 * Use `componentDidMount()`to get and store data from an API
 
+* STRETCH: Use data stored in state to display on the page
 * STRETCH: Use a ternary to make sure the data was fetched
 
 
