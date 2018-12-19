@@ -19,14 +19,18 @@ class App extends Component {
     return movies
   }
 
-  componentDidMount(){
-    fetch('https://swapi.co/api/films/')
+  fetchMovies = () => {
+    return fetch('https://swapi.co/api/films/')
     .then(res => res.json())
     .then(data => {
       this.setState({data: data.results})
       return data
-    })
-    .then(this.getMovieTitles)
+      })
+    }
+
+
+  componentDidMount(){
+    this.fetchMovies()
     .catch(err => console.error(err))
   }
 
