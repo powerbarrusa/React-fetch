@@ -18,6 +18,7 @@
 
 ## Resources
 
+* [React Developer Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [That's So Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options)
 * [HTTP Calls](https://learn-2.galvanize.com/cohorts/757/blocks/6/content_files/apis/fetch-data.md)
 * [React Docs](https://reactjs.org/docs/react-component.html)
