@@ -22,10 +22,8 @@
 * [That's So Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options)
 * [Lyfecycle Methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 * [HTTP Calls](https://learn-2.galvanize.com/cohorts/757/blocks/6/content_files/apis/fetch-data.md)
-* [React Docs](https://reactjs.org/docs/react-component.html)
 * [Promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [Catch](https://danlevy.net/are-promises-broken/#3-handle-errors-where-it-makes-sense)
-* [Posting Data](https://learn-2.galvanize.com/cohorts/757/blocks/6/content_files/apis/post-data.md)
 
 ## Tech used
 * [Star Wars API](https://swapi.co/)
